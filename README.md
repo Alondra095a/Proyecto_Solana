@@ -92,7 +92,4 @@ pub fn ver_dulces(ctx: Context<GestionarDulce>) -> Result<()> {
 
 ---
 
-## 🛠 Tecnologías usadas
-- Rust
-- Anchor Framework
-- Solana Devnet
+
